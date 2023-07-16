@@ -9,9 +9,13 @@ Instacart, an app-based online grocery store, currently experiences commendable 
 The data set information are as follows:
 
 Products 
+
 orders
+
 department
+
 order product prior
+
 customers 
 
 The dataset can be accessed here https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
@@ -23,9 +27,13 @@ The customer dataset was formulated for the purpose of the projects
 The libraries used for the project are :
  
 . Pandas - For data analysis 
+
 . Numpy - for statistical analysis
+
 . Seaborn - use for visualization
+
 . Matplotlib - Use for visualization
+
 . os - for interacting with the operating system
 
 # Executing the code 
@@ -37,10 +45,15 @@ The script folder contains 13 jupyter notebook ipynb with description
 Starting from the beggining of the project  
 
 importing of dataset - jupyter notebook importdata.ipynb
+
 Data wrangling - jupyter notebook wrangled_data.ipynb
+
 Merging dataframe _ jupyter notebook Merged_data.ipynb
+
 Creating variables - jupyter notebook created_variable.ipynb
+
 creating crosstab-  jupyter notebook crosstab.ipynb
+
 Creating visualization - jupyter notebook barchart.png
 
 # Report 
