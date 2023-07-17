@@ -39,10 +39,10 @@ The libraries used for the project are :
 ### Executing the code ###
 
 #### The code is available as jupyter notebooks can be located in script file
-Open the terminal to launch the notebook and run command ####
+Open the terminal to launch the notebook and run command 
 
 #### The script folder contains 13 jupyter notebook ipynb with description 
-Starting from the beggining of the project to the end. ####
+Starting from the beggining of the project to the end. 
 
 #### 1. importing of dataset - jupyter notebook importdata.ipynb ####
 
