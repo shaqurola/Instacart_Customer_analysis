@@ -20,7 +20,7 @@
 
 The dataset can be accessed here https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
 
-The customer dataset was formulated for the purpose of the projects
+The customer dataset was created for the purpose of the projects
 
 ### Tools ###
 
@@ -30,19 +30,19 @@ The libraries used for the project are :
 
 #### 2. Numpy - for statistical analysis ####
 
-#### 3. Seaborn - use for visualization ####
+#### 3. Seaborn - used for visualization ####
 
-#### 4. Matplotlib - Use for visualization ####
+#### 4. Matplotlib - Used for visualization ####
 
 #### 5. os - for interacting with the operating system ####
 
 ### Executing the code ###
 
-#### The code is available as jupyter notebooks can be located in script file
+#### The code is available as jupyter notebooks can be located in the script file
 Open the terminal to launch the notebook and run command 
 
 #### The script folder contains 13 jupyter notebook ipynb with description 
-Starting from the beggining of the project to the end. 
+Starting from the beginning of the project to the end. 
 
 #### 1. importing of dataset - jupyter notebook importdata.ipynb ####
 
