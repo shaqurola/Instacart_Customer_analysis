@@ -1,4 +1,4 @@
-# Instacart_Customer_analysis #
+# Instacart_Customer_analysis_Project #
 
 ### Objectives ###
 
